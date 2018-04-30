@@ -36,4 +36,8 @@ git config --list
 ------------------------
 
 #Sublime Text Setup
+## sublime text 2
 git config --global core.editor "'C:/Program Files/Sublime Text 2/sublime_text.exe' -n -w"
+
+## sublime text 3
+git config --global core.editor "'c:/program files/sublime text 3/subl.exe' -w"
